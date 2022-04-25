@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Ayaana Azad",
+      "date": "2022-04-19T22:00:29.480Z",
+      "body": "My favorite niece"
+    },
+    {
+      "id": 3,
+      "title": "Adiyat",
+      "date": "2022-04-19T00:13:57.240Z",
+      "body": "My nephew. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam iusto dolores, accusantium quod quaerat nulla nesciunt sit alias voluptates neque debitis eaque voluptatum architecto officia ullam? Neque eius libero tenetur."
+    },
+    {
+      "id": 4,
+      "title": "Long Post Updated",
+      "date": "2022-04-20T14:10:29.636Z",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio hic repellendus unde aliquid molestias doloribus non, corrupti similique quisquam consequatur ipsam vitae alias veniam officia neque eligendi iste libero architecto quas assumenda, delectus nesciunt corporis obcaecati. Unde quisquam repellendus debitis voluptatibus qui sint est eaque delectus doloremque, accusamus ratione ullam nostrum fugiat ad quam praesentium vitae perspiciatis tenetur esse illum, ea, laboriosam labore sapiente! Repellendus minus sint quasi perferendis nisi reprehenderit, illum ad iste, laudantium earum molestiae ipsum maxime hic, quidem possimus exercitationem rerum amet atque vel? Repellendus, consequuntur soluta numquam, reprehenderit temporibus perspiciatis, deserunt quibusdam quis voluptas minus nemo?"
+    }
+  ]
+}

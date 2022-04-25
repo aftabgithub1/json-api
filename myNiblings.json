@@ -1,0 +1,39 @@
+{
+	"myNiblings": [
+		{
+			"id": 1,
+			"name": "Afra",
+			"data_of_birth": null,
+			"desp": "My first niece.",
+			"photo": "raw.githubusercontent.com/photos/my-niblings/"
+		},
+		{
+			"id": 2,
+			"name": "Ayaana",
+			"data_of_birth": null,
+			"desp": "My second and favorite niece.",
+			"photo": "raw.githubusercontent.com/photos/my-niblings/"
+		},
+		{
+			"id": 3,
+			"name": "Adiyat",
+			"data_of_birth": null,
+			"desp": "My first Nephew.",
+			"photo": "raw.githubusercontent.com/photos/my-niblings/"
+		},
+		{
+			"id": 4,
+			"name": "Iqra",
+			"data_of_birth": null,
+			"desp": "My third niece.",
+			"photo": "raw.githubusercontent.com/photos/my-niblings/"
+		},
+		{
+			"id": 5,
+			"name": "Mehmed",
+			"data_of_birth": null,
+			"desp": "My second Nephew.",
+			"photo": "raw.githubusercontent.com/photos/my-niblings/"
+		}
+	]
+}
