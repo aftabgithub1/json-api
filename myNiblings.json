@@ -3,37 +3,44 @@
 		{
 			"id": 1,
 			"name": "Afra",
-			"data_of_birth": null,
+			"data_of_birth": "n/a",
 			"desp": "My first niece.",
 			"photo": "https://raw.githubusercontent.com/aftabgithub1/images/main/User/avatar-8.jpg"
 		},
 		{
 			"id": 2,
 			"name": "Ayaana",
-			"data_of_birth": null,
+			"data_of_birth": "n/a",
 			"desp": "My second and favorite niece.",
 			"photo": "https://raw.githubusercontent.com/aftabgithub1/images/main/User/avatar-3.jpg"
 		},
 		{
 			"id": 3,
 			"name": "Adiyat",
-			"data_of_birth": null,
+			"data_of_birth": "n/a",
 			"desp": "My first Nephew.",
 			"photo": "https://raw.githubusercontent.com/aftabgithub1/images/main/User/avatar-9.jpg"
 		},
 		{
 			"id": 4,
 			"name": "Iqra",
-			"data_of_birth": null,
+			"data_of_birth": "n/a",
 			"desp": "My third niece.",
 			"photo": "https://raw.githubusercontent.com/aftabgithub1/images/main/User/avatar-1.jpg"
 		},
 		{
 			"id": 5,
 			"name": "Mehmed",
-			"data_of_birth": null,
+			"data_of_birth": "n/a",
 			"desp": "My second Nephew.",
 			"photo": "https://raw.githubusercontent.com/aftabgithub1/images/main/User/avatar-10.jpg"
+		},
+		{
+			"id": 6,
+			"name": "No Content",
+			"data_of_birth": "Not available",
+			"desp": "No content given yet",
+			"photo": "Not available"
 		}
 	]
 }
