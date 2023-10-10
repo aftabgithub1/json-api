@@ -47,15 +47,6 @@
 		},
 		{
 			"id": 6,
-			"postedBy": 2,
-			"title": "Solid Gold Petite Micropave ",
-			"price": 168,
-			"description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-			"category": "jewelery",
-			"image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
-		},
-		{
-			"id": 7,
 			"postedBy": 1,
 			"title": "White Gold Plated Princess",
 			"price": 9.99,
@@ -64,16 +55,7 @@
 			"image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
 		},
 		{
-			"id": 8,
-			"postedBy": 1,
-			"title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-			"price": 10.99,
-			"description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-			"category": "jewelery",
-			"image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
-		},
-		{
-			"id": 9,
+			"id": 7,
 			"postedBy": 4,
 			"title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
 			"price": 64,
@@ -82,13 +64,22 @@
 			"image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
 		},
 		{
-			"id": 10,
+			"id": 9,
 			"postedBy": 1,
 			"title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
 			"price": 109,
 			"description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
 			"category": "electronics",
 			"image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+		},
+		{
+			"id": 10,
+			"postedBy": 3,
+			"title": "DANVOUY Womens T Shirt Casual Cotton Short",
+			"price": 12.99,
+			"description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+			"category": "women's clothing",
+			"image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
 		},
 		{
 			"id": 11,
@@ -170,15 +161,7 @@
 			"description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
 			"category": "women's clothing",
 			"image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
-		},
-		{
-			"id": 20,
-			"postedBy": 3,
-			"title": "DANVOUY Womens T Shirt Casual Cotton Short",
-			"price": 12.99,
-			"description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-			"category": "women's clothing",
-			"image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
 		}
+
 	]
 }
