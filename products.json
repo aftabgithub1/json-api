@@ -1,5 +1,4 @@
-{
-	"products": [
+[
 		{
 			"id": 1,
 			"postedBy": 1,
@@ -163,5 +162,4 @@
 			"image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
 		}
 
-	]
-}
+]
